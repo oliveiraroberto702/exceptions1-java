@@ -23,5 +23,5 @@
 hs_err_pid*
 replay_pid*
 # acrescentados por mim
-src/module-ingo.java
-.setting/org.eclipse.core.resource.prefers
+src/module-info.java
+.settings/org.eclipse.core.resources.prefs
