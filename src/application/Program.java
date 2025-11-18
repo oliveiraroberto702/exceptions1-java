@@ -37,6 +37,7 @@ public class Program {
 		catch(ParseException e) {
 			System.out.println("Ivalida date format!");
 		}
+		
 		//catch (IllegalArgumentException e)
 		catch (DomainException e)
 		{
